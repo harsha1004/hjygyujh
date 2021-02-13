@@ -1,0 +1,9 @@
+ <View>
+            <Text>SIGIN</Text>
+            <Button title="onSignin" onPress={() => NavigationService.navigate(MAIN_APP_ROUTES.TIMETABLE, 'signin')} />
+            </View>
+
+
+
+
+
